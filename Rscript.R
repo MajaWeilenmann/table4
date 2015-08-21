@@ -21,6 +21,6 @@ fake_people <- function(num_results = 20,
 fake_people(1)
 fake_people()
 
-fake_people(gender = "mal e")
+fake_people(gender = "male")
 
 fake_people(gender = "male", nat = "GB")
